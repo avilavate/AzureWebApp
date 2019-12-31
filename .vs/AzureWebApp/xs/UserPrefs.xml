@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="AzureWebApp/Controllers/HomeController.cs">
     <Files>
       <File FileName="AzureWebApp/Controllers/HomeController.cs" Line="53" Column="1" />
-      <File FileName="AzureWebApp/Views/Home/Index.cshtml" Line="6" Column="11" />
+      <File FileName="AzureWebApp/Views/Home/Index.cshtml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
